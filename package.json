@@ -1,7 +1,7 @@
 {
-  "name": "tableify",
+  "name": "markdowntableify",
   "version": "1.0.0",
-  "description": "Create HTML tables from Javascript Objects",
+  "description": "Create Markdown tables from Javascript Objects",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -17,15 +17,15 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/wankdanker/node-tableify.git"
+    "url": "https://github.com/aat-labs/node-tableify.git"
   },
   "keywords": [
     "object",
-    "html",
+    "markdown",
     "table"
   ],
   "bugs": {
-    "url": "https://github.com/wankdanker/node-tableify/issues"
+    "url": "https://github.com/aat-labs/node-tableify/issues"
   },
-  "homepage": "https://github.com/wankdanker/node-tableify"
+  "homepage": "https://github.com/aat-labs/node-tableify"
 }
